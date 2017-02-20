@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TKAnalytics_Tests' do
+  pod 'TKAnalytics', :path => '../'
+  
+  
+end
